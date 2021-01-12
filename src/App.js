@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React - fernandod c
+          Learn React - fernandod - from feature branch
         </a>
       </header>
     </div>
